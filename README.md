@@ -14,5 +14,5 @@ This bot plays an extended version of ultimate tic tac toe. The basic rules can 
 
  ## Running the game
 
-To see the various options: ```python2 simulator.py```
-To play a game: ```python2 simulator.py <option>```
+* To see the various options: ```python2 simulator.py```
+* To play a game: ```python2 simulator.py <option>```
